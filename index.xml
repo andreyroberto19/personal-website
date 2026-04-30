@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andrey Roberto.</title>
+    <link>https://andreyroberto19.github.io/personal-website/</link>
+    <description>Recent content on Andrey Roberto.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andreyroberto19.github.io/personal-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba</title>
+      <link>https://andreyroberto19.github.io/personal-website/posts/prueba/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://andreyroberto19.github.io/personal-website/posts/prueba/</guid>
+      <description>&lt;p&gt;Este es mí primera publicación usando Hugo.&lt;/p&gt;
+&lt;p&gt;Estoy desarrollando mi página web un paso a la vez.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
