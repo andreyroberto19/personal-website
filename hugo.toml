@@ -5,3 +5,16 @@ theme = "PaperMod"
 
 [pagination]
   pagerSize = 10
+
+[params]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
