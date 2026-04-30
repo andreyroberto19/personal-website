@@ -16,5 +16,13 @@
       <description>&lt;p&gt;Este es mí primera publicación usando Hugo.&lt;/p&gt;
 &lt;p&gt;Estoy desarrollando mi página web un paso a la vez.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Segunda prueba</title>
+      <link>https://andreyroberto19.github.io/personal-website/posts/segunda-prueba/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://andreyroberto19.github.io/personal-website/posts/segunda-prueba/</guid>
+      <description>&lt;p&gt;Esta es una segunda prueba.&lt;/p&gt;
+&lt;p&gt;Estoy trabajando con hugo para desarrollar una página web.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
