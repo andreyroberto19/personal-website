@@ -1,0 +1,4 @@
+baseURL = "https://andreyroberto19.github.io/personal-website/"
+languageCode = "en-us"
+title = "Andrey Roberto."
+theme = "PaperMod"
