@@ -2,7 +2,12 @@
 title: "Internet, narrativas y reacción social"
 date: 2026-04-30
 draft: false
+description: "Una reflexión sobre cómo internet está dejando de ser solo una herramienta tecnológica para convertirse en el origen de muchas dinámicas sociales, culturales y políticas."
 tags: ["internet", "cultura", "sociedad", "medios"]
+cover:
+  image: "/personal-website/images/internet-narrativas.jpg"
+  alt: "Imagen conceptual sobre internet, narrativas y sociedad"
+  caption: ""
 ---
 
 El punto principal del artículo es que internet está dejando de ser solo una herramienta tecnológica. Cada vez más, lo que nos pasa en la vida real tiene su origen en internet.
